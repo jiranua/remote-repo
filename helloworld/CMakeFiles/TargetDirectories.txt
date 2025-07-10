@@ -1,0 +1,3 @@
+D:/git/xiaomi/CMakeFiles/HelloWorld.dir
+D:/git/xiaomi/CMakeFiles/ALL_BUILD.dir
+D:/git/xiaomi/CMakeFiles/ZERO_CHECK.dir
